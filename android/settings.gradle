@@ -1,0 +1,3 @@
+rootProject.name = 'linqClient'
+
+include ':app'
