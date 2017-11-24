@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "fullName": "Jason",
+    "email": "test@test.com",
+    "phone": "111222333444",
+    "blurb": "hey there testing testing",
+    "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg"
+  },
+  {
+    "id": 2,
+    "fullName": "Spencer",
+    "email": "test@test.com",
+    "phone": "111222333444",
+    "blurb": "hey there testing testing",
+    "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg"
+  },
+  {
+    "id": 3,
+    "fullName": "Patrick",
+    "email": "test@test.com",
+    "phone": "111222333444",
+    "blurb": "hey there testing testing",
+    "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg"
+  }
+]
